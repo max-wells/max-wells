@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQHQ209dPtg5Mw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732995058991?e=1739404800&v=beta&t=shE4RZ3q3lZZEuKH3HJLQfh8v9CTO2mlVkpojcj11UM)
+![MasterHead](https://res.cloudinary.com/di4t4hdwa/image/upload/v1733922713/github-banner_fsw8eh.png)
 
 
 <h1 align="center">
@@ -39,11 +39,37 @@ In 2022, I’ve started to work for a Blockchain company. I was in charge of the
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max-wells&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=max-wells&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=max-wells&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=max-wells&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=max-wells&theme=solarized&utcOffset=8)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max-wells&theme=solarized_dark">
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max-wells&theme=solarized">
+  <img alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max-wells&theme=solarized">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=max-wells&theme=solarized_dark">
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=max-wells&theme=solarized">
+  <img alt="Repos Per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=max-wells&theme=solarized">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=max-wells&theme=solarized_dark">
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=max-wells&theme=solarized">
+  <img alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=max-wells&theme=solarized">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=max-wells&theme=solarized_dark">
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=max-wells&theme=solarized">
+  <img alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=max-wells&theme=solarized">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=max-wells&theme=solarized_dark&utcOffset=8">
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=max-wells&theme=solarized&utcOffset=8">
+  <img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=max-wells&theme=solarized&utcOffset=8">
+</picture>
+
+
 
 
 
@@ -62,12 +88,38 @@ In 2022, I’ve started to work for a Blockchain company. I was in charge of the
 <br/>
 <hr/>
 
+
+
+
+
+
+
+
+
+
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+ <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/max-wells/max-wells/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/max-wells/max-wells/output/github-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/max-wells/max-wells/output/github-snake.svg"
+  />
+</picture>
 </div>
 
 
-<br/><br/>
+
+
+
+<br/>
+<br/>
 <hr/>
 
 <h3 align="center">
