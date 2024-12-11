@@ -35,45 +35,9 @@ In 2022, I’ve started to work for a Blockchain company. I was in charge of the
 </div>
 
 
- <hr/>
 
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max-wells&theme=solarized_dark">
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max-wells&theme=solarized">
-  <img alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max-wells&theme=solarized">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=max-wells&theme=solarized_dark">
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=max-wells&theme=solarized">
-  <img alt="Repos Per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=max-wells&theme=solarized">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=max-wells&theme=solarized_dark">
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=max-wells&theme=solarized">
-  <img alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=max-wells&theme=solarized">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=max-wells&theme=solarized_dark">
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=max-wells&theme=solarized">
-  <img alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=max-wells&theme=solarized">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=max-wells&theme=solarized_dark&utcOffset=8">
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=max-wells&theme=solarized&utcOffset=8">
-  <img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=max-wells&theme=solarized&utcOffset=8">
-</picture>
-
-
-
-
-
- <hr/>
+<hr/>
  
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
