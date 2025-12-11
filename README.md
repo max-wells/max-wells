@@ -1,51 +1,75 @@
-![MasterHead](https://res.cloudinary.com/di4t4hdwa/image/upload/v1733922713/github-banner_fsw8eh.png)
-
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A060&center=true&width=500&height=40&lines=Hi+there!+👋+I'm+Max.+;Your+Next+Rust+Dev+🦀+😄" />
-</h1>
+![MasterHead](banner-github.png)
 
 
 
 
-<img align="right" alt="Coding" width="250" src="https://res.cloudinary.com/dnwmgftf8/image/upload/v1694944154/Untitled_design_d6yw4l.png">
 
+<div align="center">
 
-<div align="left">
+<h2>Hi, I'm Max 👋</h2>
 
-<br/>
- 
-I have specialized in Blockchain and Rust since 2021. I am also specialized in React (TypeScript). This dual expertise allows me to be proficient in both backend (Rust) and frontend (Rust / TypeScript) development. I created a component library that is used by several thousand developers and receives tens of thousands of page visits per month.
-<br/>
-In 2022, I’ve started to work for a Blockchain company. I was in charge of the frontend development. In 2023, I’ve started to learn React and worked on several projects on Next JS. I’m still a junior in React but I’m very motivated and able to learn quickly.
-
-<br/>
-
-</div>
-
-
- 
-<div align="center"> 
+<p>
+  <a href="https://linkedin.com/in/max-wells-rs" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:maxwells.pro@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/maxime-montfort" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://rust-ui.com" target="_blank">
+    <img src="https://img.shields.io/badge/rust--ui.com-000000?style=for-the-badge&logo=rust&logoColor=white" />
   </a>
+</p>
+
+<p>
+Rust fullstack engineer with two years of production experience. Migrated a 1.5M+ line Java codebase to Rust on-site in Dubai, covering backend services, architecture redesign, and frontend components. Previously rebuilt a large-scale sustainability platform in TypeScript. Maintainer of rust-ui.com, a component registry with thousands of production users, and an icons crate with 25k+ downloads.
+</p>
+
 </div>
 
 
 
 
 <hr/>
- 
+
+
+<h2 align="center">Some of my favorite projects</h2>
+<br />
+
+<p align="center">
+  <a href="https://github.com/rust-ui/ui">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rust-ui&repo=ui&theme=gruvbox" />
+  </a>
+  <a href="https://github.com/rust-ui/start-tauri-fullstack">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rust-ui&repo=start-tauri-fullstack&theme=gruvbox" />
+  </a>
+</p>
+
+<hr/>
+
+
+<h2 align="center">About me 🦀</h2>
+
+<p align="center"><b>Timezone: Europe/Paris (CET)</b></p>
+
+In my latest project, I built [rust-ui.com](https://rust-ui.com), a component registry for fullstack Rust applications that you can copy/paste into your own codebase. Used by thousands of developers in production.
+
+🔸 Currently maintaining: Rust/UI — a component registry for fullstack Rust used by thousands of developers in production, and an icons crate with 25k+ downloads<br/>
+🔸 Specialty: Rust backend & fullstack — REST APIs, async Rust, WASM, system architecture, and large-scale codebase migrations (1.5M+ lines Java → Rust)<br/>
+🔸 Blockchain: built an NFT marketplace on Solana in Rust<br/>
+🔸 Looking to collaborate on: production Rust projects, backend systems, and open-source Rust ecosystem contributions<br/>
+🔸 Ask me about: Rust fullstack & backend architecture, migrating legacy codebases to Rust, AI agent orchestration<br/>
+🔸 Jury's Favorite — Blockchain Hackathon, Vierzon (2024)
+
+<br/>
+<hr/>
+
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,postgres,tailwind,react,nextjs,actix,wasm,digitalocean" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,actix,wasm,tauri,sqlite,postgres" />
   <br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=ipfs,solidity,ts,figma,postman,docker,git" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,nextjs,figma" /><br>
 </div>
 
 
@@ -86,8 +110,11 @@ In 2022, I’ve started to work for a Blockchain company. I was in charge of the
 <br/>
 <hr/>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A060&center=true&width=500&height=40&lines=Thanks+for+visiting+🙏;Send+me+a+message+on+Linkedin+😄">
-</h3>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=max-wells&layout=compact&theme=gruvbox&hide=typescript,javascript,css" />
+</p>
+
+<hr/>
+
 
 <br/>
